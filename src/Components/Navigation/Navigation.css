@@ -1,0 +1,29 @@
+.navigation{
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+    background-color:white;
+    margin-top: 10px;
+}
+.navigation-logo img{
+    width: 100px;
+}
+.navigation-cart{
+    width: 40px;
+    padding-left: 100px;
+}
+.navigation-bar input{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px 0 0 5px;
+
+}
+.navigation-bar button{
+    width: 20px;
+    height: 30px;
+    background-color: #febd69;
+    border: none;
+
+}

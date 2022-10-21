@@ -1,0 +1,42 @@
+.Offer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px;
+
+}
+.Offer img{
+    width: 250px;
+}
+.card-1{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding-bottom: 30px;
+}
+.card-2{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding-bottom: 30px;
+
+
+}
+.card-3{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding-bottom: 30px;
+
+}
+.card-4{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding-bottom: 30px;
+
+}
